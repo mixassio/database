@@ -1,49 +1,49 @@
-version: '3.3'
+version: "3.3"
 
 services:
-    adminer:
-        image: adminer
-        restart: always
-        ports:
-            - 8081:8080
-    dbPostgres:
-        image: postgres
-        restart: always
-        environment:
-            POSTGRES_USER: root
-            POSTGRES_PASSWORD: changeme
-            POSTGRES_DB: mydb
-        ports:
-            - 5432:5432
-        volumes:
-            - pgdata:/var/lib/postgresql/data
-    dbMysql:
-      image: mysql
-      command: --default-authentication-plugin=mysql_native_password
-      restart: always
-      environment:
-        MYSQL_ROOT_PASSWORD: example
-        MYSQL_DATABASE: mydb
-      ports:
-        - '3306:3306'
-      volumes:
-        - my-db:/var/lib/mysql
-    dbMongo:
-        image: mongo:3.6.2
-        restart: always
-        ports:
-        - 27017:27017
-        environment:
-            MONGO_INITDB_ROOT_USERNAME: root
-            MONGO_INITDB_ROOT_PASSWORD: changeme
-    dbRedis:
-        image: 'redis'
-        ports:
-            - 6379:6379
-        volumes:
-            - 'redisdata:/data'
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8081:8080
+  dbMysql:
+    image: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: mydb
+    ports:
+      - "3306:3306"
+    volumes:
+      - my-db:/var/lib/mysql
+#   dbPostgres:
+#     image: postgres
+#     restart: always
+#     environment:
+#       POSTGRES_USER: root
+#       POSTGRES_PASSWORD: changeme
+#       POSTGRES_DB: mydb
+#     ports:
+#       - 5432:5432
+#     volumes:
+#       - pgdata:/var/lib/postgresql/data
+#   dbMongo:
+#     image: mongo:3.6.2
+#     restart: always
+#     ports:
+#       - 27017:27017
+#     environment:
+#       MONGO_INITDB_ROOT_USERNAME: root
+#       MONGO_INITDB_ROOT_PASSWORD: changeme
+#   dbRedis:
+#     image: "redis"
+#     ports:
+#       - 6379:6379
+#     volumes:
+#       - "redisdata:/data"
 
 volumes:
-    pgdata:
-    redisdata:
-    my-db:
+  my-db:
+  # pgdata:
+  # redisdata:

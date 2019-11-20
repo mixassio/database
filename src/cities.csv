@@ -1,0 +1,887 @@
+1,Varese,,IT
+2,Haywards heath,,GB
+3,Hirschberg an der bergstraße,,DE
+4,Crowborough,1,GB
+5,Beccles,,GB
+6,Denny,,GB
+7,Horfield,,GB
+8,Newark,,GB
+9,Montemarciano,2,IT
+10,Düsseldorf,,DE
+11,York,,GB
+12,Dresden,,DE
+13,Szczecin,,PL
+14,Kiel,,DE
+15,St leonards-on-sea,,GB
+16,Bolton,,GB
+17,Truro,3,GB
+18,Ecaussinnes-lalaing,,BE
+19,Wiesbaden,,DE
+20,Skudeneshavn,,NO
+21,Dorking,4,GB
+22,Hamburg,,DE
+23,Preston,,GB
+24,Wolverhampton,,GB
+25,Czarne,,PL
+26,Birr,5,IE
+27,Moyvillers,,FR
+28,Great harwood,,GB
+29,Esch/alzette,,BE
+30,Limburg,,DE
+31,Mijdrecht,6,NL
+32,Osek,,CZ
+33,Podenzano,7,IT
+34,Flörsheim am main,,DE
+35,Delft,,NL
+36,Oullins,,FR
+37,Carlow,,IE
+38,Stoke-on-trent,,GB
+39,Valgreghentino,,IT
+40,Glasgow,,GB
+41,Dudley,8,GB
+42,My,,BE
+43,Berlin,,DE
+44,Saint-sébastien-sur-loire,,FR
+45,Bpdeletion,,PL
+46,Aberdeen,,GB
+47,Rhyl,9,GB
+48,Coulsdon,,GB
+49,Bruxelles,,BE
+50,Colchester,,GB
+51,Lembeek,,BE
+52,Viareggio,,IT
+53,Fareham,10,GB
+54,Pfaeffikon,,CH
+55,Birmingham,,GB
+56,Bognor regis,,GB
+57,Ponsas,,FR
+58,Bezons,,FR
+59,Mannheim,,DE
+60,Binic,,FR
+61,Barnsley,,GB
+62,La rochelle,,FR
+63,Bournemouth,,GB
+64,Cambridge,,GB
+65,Bracknell,,GB
+66,Huddersfield,,GB
+67,Busto arsizio,11,IT
+68,Buncrana,12,IE
+69,Milton keynes,,GB
+70,Knutsford,,GB
+71,Galatina,13,IT
+72,Firenze,,IT
+73,London,,GB
+74,Argelato,,IT
+75,Tidworth,,GB
+76,Barcelona,,ES
+77,Gioia tauro,14,IT
+78,Heubach,,DE
+79,Ożarów,,PL
+80,Wechselburg,,DE
+81,Sassari,,IT
+82,Vitry sur seine,,FR
+83,Rochdale,,GB
+84,Slough,,GB
+85,Lemförde,,DE
+86,Praha,,CZ
+87,Pwllheli,,GB
+88,Stockholm,,SE
+89,Rayleigh,,GB
+90,Pontypridd,,GB
+91,Issy-les-moulineaux,,FR
+92,Limerick,15,IE
+93,Nesmy,,FR
+94,Fertőrákos,16,HU
+95,Kilmarnock,,GB
+96,Ostiano,,IT
+97,Meythet,,FR
+98,Riedstadt,,DE
+99,Ennery,,FR
+100,Borgarello,17,IT
+101,Rostock,,DE
+102,Titz,,DE
+103,Ollainville,,FR
+104,Köln,,DE
+105,Chmielnik,,PL
+106,Hythe,18,GB
+107,Arroyo molinos,,ES
+108,Schöneiche,,DE
+109,Viganello,,CH
+110,Paris,,FR
+111,Calne,,GB
+112,Amsterdam,,NL
+113,Newcastle,19,GB
+114,Bergamo,20,IT
+115,Taunton,,GB
+116,Hounslow,,GB
+117,Bristol,,GB
+118,Romford,,GB
+119,Kenilworth,,GB
+120,Burgess hill,,GB
+121,Stockton-on-tees,,GB
+122,Vilanova i la geltru,,ES
+123,Tower road st helier,,GB
+124,Malonno,21,IT
+125,Olen,22,BE
+126,Edingen-neckarhausen,,DE
+127,Schnaudertal,,DE
+128,Horsforth,,GB
+129,Melegnano,23,IT
+130,Middleton,24,IE
+131,Wattenwil,,CH
+132,Bromley,,GB
+133,Hatfield,25,GB
+134,Prestwick,26,GB
+135,Ballyneety,15,IE
+136,Sersheim,,DE
+137,A,,NO
+138,Brentwood,27,GB
+139,Apeldoorn,,NL
+140,Mansfeld,,DE
+141,Denain,,FR
+142,Leamington spa,28,GB
+143,Carmarthen,,GB
+144,La riviere st sauveur,,FR
+145,Portsmouth,,GB
+146,Gainsborough,29,GB
+147,Bobigny,,FR
+148,Dunfermline,,GB
+149,Newcastle,,GB
+150,Wolmirsleben,,DE
+151,Hehlen,,DE
+152,Bridgwater,,GB
+153,Cardiff,,GB
+154,Ballinasloe,30,IE
+155,Langheaton,,GB
+156,Oslo,,NO
+157,Eastbourn,,GB
+158,Ans,,BE
+159,Arnhem,,NL
+160,Perranporth,,GB
+161,Emden,,DE
+162,St malo,,FR
+163,Leyland,,GB
+164,Newcastle upon tyne,,GB
+165,Solingen,,DE
+166,Liverpool,,GB
+167,Leerdam,,NL
+168,Kirkcaldy,31,GB
+169,Dagenham,,GB
+170,Leigh-on-sea,,GB
+171,Roukalahti,,FI
+172,Shipley,,GB
+173,Nottingham,,GB
+174,Commercy,,FR
+175,Penzance,3,GB
+176,Wilhelmshaven,,DE
+177,Scarborough,32,GB
+178,Pijnacker,,NL
+179,Leigh on sea,,GB
+180,Jirice u miroslavi,,CZ
+181,Fontpineda palleja,,ES
+182,Imola,33,IT
+183,Guildford,,GB
+184,Brightons,,GB
+185,Wimborne,,GB
+186,Hünfelden,,DE
+187,Suhl,,DE
+188,Nice,,FR
+189,Mulhouse,,FR
+190,Bedford,,GB
+191,Fürth,,DE
+192,Sint-genesius-rode,,BE
+193,Newbury,34,GB
+194,Morpeth,,GB
+195,Llandudno junction,35,GB
+196,Paderborn,,DE
+197,Munina,,PL
+198,Koblenz,,DE
+199,Skelton,,GB
+200,Balzac,,FR
+201,Braintree,,GB
+202,Doncaster,36,GB
+203,Ballycastle,,GB
+204,Vandieres,,FR
+205,Havelberg,,DE
+206,Faleria,37,IT
+207,Krzeszowice,,PL
+208,Madrid,,ES
+209,St neots,38,GB
+210,Fontaines,,FR
+211,Biandrate,39,IT
+212,Bishops waterm,,GB
+213,Dobrcz,,PL
+214,Jablonec nad nisou,,CZ
+215,Blackpool,,GB
+216,Draženov,,CZ
+217,Tortoreto,,IT
+218,Leeds,,GB
+219,Omagh,40,GB
+220,Uckfield,,GB
+221,Leicester,,GB
+222,Московський р-он,,UA
+223,Wittlich,41,DE
+224,La sauvetat de saveres,,FR
+225,Vicenza,42,IT
+226,Herne,,DE
+227,Rugby,28,GB
+228,Lisdoonvarna,,IE
+229,Birchington,18,GB
+230,Sedlcany,,CZ
+231,Montpellier,,FR
+232,Ijsselmuiden,,NL
+233,Valnesfjord,,NO
+234,Nekoř,,CZ
+235,Lutterbach,,FR
+236,Hilversum,,NL
+237,Chester,,GB
+238,Hessisch lichtenau,,DE
+239,Motherwell,,GB
+240,Hayes,,GB
+241,Ballots,,FR
+242,Piacenza,7,IT
+243,Frampol,,PL
+244,Dale i sunnfjord,,NO
+245,Langenfeld (rheinland),,DE
+246,Borehamwood,,GB
+247,Folkestone,,GB
+248,Portomouro,,ES
+249,Fachbach,,DE
+250,Usmate velate,43,IT
+251,North walsham,44,GB
+252,Newport pagnell,,GB
+253,Dublin 8,,IE
+254,Corte franca,,IT
+255,Elgin,45,GB
+256,Pattensen,,DE
+257,Clermont ferrand,,FR
+258,Dublin,46,IE
+259,Tamworth,19,GB
+260,Plaisir,,FR
+261,Whittlesey,,GB
+262,Sutton coldfield,8,GB
+263,Castelbelforte,47,IT
+264,Horsham,48,GB
+265,Göteborg,,SE
+266,Hove,,GB
+267,Bordon,10,GB
+268,Brechin,,GB
+269,Gent,,BE
+270,Bad neuenahr - ahrweiler,,DE
+271,Oberhausen,,DE
+272,Vitrolles,,FR
+273,Bingen am rhein,,DE
+274,Tomaszów maz,,PL
+275,Belfast,,GB
+276,Helmond,,NL
+277,Cestas,,FR
+278,Manchester,,GB
+279,Baldock,,GB
+280,Millau,,FR
+281,Vsetin,,CZ
+282,Telford,49,GB
+283,Mariano comense,,IT
+284,Sesto san giovanni,,IT
+285,La roche sur yon,,FR
+286,Bad sooden-allendorf,,DE
+287,Sarstedt,,DE
+288,Ammanford,50,GB
+289,Gilau,51,RO
+290,Hombrechtikon,,CH
+291,Beerzel,,BE
+292,Wilsele,,BE
+293,Flensburg,,DE
+294,Worcester,,GB
+295,Abingdon,,GB
+296,Peterborough,,GB
+297,Essen,,DE
+298,Civitavecchia,,IT
+299,Cosenza,52,IT
+300,Scunthorpe,,GB
+301,Towcester,53,GB
+302,Fleurance,,FR
+303,La courneuve,,FR
+304,Mysłowice,,PL
+305,Ostwald,,FR
+306,Dinas powys,54,GB
+307,Ipswich,,GB
+308,Callander,,GB
+309,Cappelle la grande,,FR
+310,Gelsenkirchen,,DE
+311,L\'aigle,,FR
+312,Corby,,GB
+313,Lagoa,,PT
+314,Lagnieu,,FR
+315,Zbehy,,SK
+316,Tinqueux,,FR
+317,Cardito,55,IT
+318,Basildon,,GB
+319,Kristiansund n,,NO
+320,Kings winford,,GB
+321,Bochum,,DE
+322,Latina,56,IT
+323,Divonne les bains,,FR
+324,Rimini,,IT
+325,Besigheim,,DE
+326,Houghton le spring,,GB
+327,Verona,57,IT
+328,Diez,,DE
+329,Ashford,18,GB
+330,Schoonoord,,NL
+331,Isolotto,,IT
+332,Sale,,GB
+333,Stuttgart,,DE
+334,Torino,58,IT
+335,Santa maria,,IT
+336,Carrara,,IT
+337,St armel,,FR
+338,Chichester,48,GB
+339,Sobreda,,PT
+340,Heathfield,1,GB
+341,Palermo,59,IT
+342,Dublin 16,,IE
+343,Миколаїв,60,UA
+344,Neuilly sur seine,,FR
+345,Accrington,,GB
+346,Toulouse,,FR
+347,Oss,,NL
+348,Maidenhead,,GB
+349,Lidköping,,SE
+350,Perth,,GB
+351,Visby,,SE
+352,Esslingen am neckar,,DE
+353,Belper,61,GB
+354,Wickford,,GB
+355,Forio,55,IT
+356,Chatham,,GB
+357,Southport,62,GB
+358,Chesterfield,,GB
+359,Worthing,,GB
+360,Longhope,63,GB
+361,Falkenberg,,SE
+362,Genzano di roma,,IT
+363,Neumünster,,DE
+364,Mezeriat,,FR
+365,Walsall,,GB
+366,Ermont,,FR
+367,Bielefeld,,DE
+368,Northampton,,GB
+369,Palermo,,IT
+370,Storkow,,DE
+371,Scarperia,64,IT
+372,Massa fermana,,IT
+373,Strzyżów,,PL
+374,Karlstad,,SE
+375,Mese,,IT
+376,Lloughour,,GB
+377,Bath,,GB
+378,Waltham cross,25,GB
+379,Felm,,DE
+380,Valignat,,FR
+381,Musile di piave,,IT
+382,Munchhouse,,FR
+383,Tamworth,,GB
+384,Maraussan,,FR
+385,Börßum,,DE
+386,Wigan,,GB
+387,Hull,,GB
+388,Маріуполь,65,UA
+389,Turda,,RO
+390,München,,DE
+391,Meudon,,FR
+392,Pescara,66,IT
+393,Biberen,,CH
+394,Varennes-vauzelles,,FR
+395,Ulnes,,NO
+396,Greve,,DK
+397,Trollhättan,,SE
+398,Provins,,FR
+399,Cagnes sur mer,,FR
+400,Aubervilliers,,FR
+401,Barnoldswick,67,GB
+402,Scarborough,,GB
+403,Lausanne,,CH
+404,Ca' de' fabbri,,IT
+405,Bellshill,,GB
+406,Santa margherita ligure,68,IT
+407,Remscheid,,DE
+408,Tewkesbury,63,GB
+409,Leatherhead,,GB
+410,Bridgend,,GB
+411,Bojanów,,PL
+412,Steinbach (taunus),,DE
+413,Luino,11,IT
+414,Swindon,,GB
+415,Radebeul,,DE
+416,Ustroń,,PL
+417,Hem,,FR
+418,Amorim,,PT
+419,Bromsgrove,,GB
+420,Hartlepool,69,GB
+421,Morecambe,,GB
+422,Busto arsizio,,IT
+423,Zwartewaal,,NL
+424,Tunbridge wells,,GB
+425,Rozenburg zh,,NL
+426,Drammen,,NO
+427,Rugby,,GB
+428,Dorking,,GB
+429,Breda,,NL
+430,La neuveville,,CH
+431,Erlenbach,,DE
+432,Greifswald hansestadt,,DE
+433,Boulogne sur gesse,,FR
+434,Banbury,,GB
+435,Leverkusen,,DE
+436,Göppingen,,DE
+437,Merida-badajoz,,ES
+438,Wiener neudorf,,AT
+439,Bremen,,DE
+440,Neunkirchen,,DE
+441,Great yarmouth,,GB
+442,Livorno,,IT
+443,Mechelen,,NL
+444,Fraserburgh,,GB
+445,Englos,,FR
+446,Northolt,,GB
+447,Waltham cross,,GB
+448,Nuneaton,28,GB
+449,Milano,23,IT
+450,Cheltenham,,GB
+451,Neu-isenberg,,DE
+452,Glossop,,GB
+453,Lidzbark warmiński,,PL
+454,Pontefract,70,GB
+455,Skrautvål,,NO
+456,Napoli,,IT
+457,Gourock,71,GB
+458,Stockport,72,GB
+459,Hannover,,DE
+460,Sheffield,,GB
+461,Blaasveld,,BE
+462,Hexoudun,,FR
+463,Ostrava mariánské hory,,CZ
+464,Roma,73,IT
+465,St leonards-on-sea,1,GB
+466,Toruń,,PL
+467,St dizier,,FR
+468,Lourdes,,FR
+469,Nowy targ,,PL
+470,Wien,,AT
+471,Lalbenque,,FR
+472,Worksop,74,GB
+473,Josse,,FR
+474,Corbion,,BE
+475,Horley,4,GB
+476,Cortil-noirmont,,BE
+477,Cergy,,FR
+478,Perigneux,,FR
+479,Vesterøy,,NO
+480,Torrenova,,IT
+481,Heerlen,,NL
+482,Ashford,,GB
+483,Onstwedde,,NL
+484,Wohlen ag,,CH
+485,Breidenbach,,DE
+486,Basildon,27,GB
+487,Böhlen,,DE
+488,Poznań,,PL
+489,Vranou nad toplov,,SK
+490,Pia,,FR
+491,Groningen,,NL
+492,Stockport,,GB
+493,Dundee,,GB
+494,Cowdenbeath,31,GB
+495,Abbiategrasso,,IT
+496,Blackburn,,GB
+497,Sulzbach-rosenberg,,DE
+498,'s-gravenhage,,NL
+499,Lommel,,BE
+500,Dover,,GB
+501,Immonville,,FR
+502,San donà di piave,75,IT
+503,Levallois-perret,,FR
+504,Pori,,FI
+505,Bottrop,,DE
+506,Santarém,,PT
+507,Katowice,,PL
+508,Barano d'ischia,55,IT
+509,Bolesławiec,,PL
+510,North tawton,76,GB
+511,Belfort,,FR
+512,Volla,,IT
+513,Keith,,GB
+514,Parma,,IT
+515,Taranto,,IT
+516,Verberie,,FR
+517,Beckingen,,DE
+518,Dortmund,77,DE
+519,Nordkirchen,,DE
+520,Sheerness,18,GB
+521,Fiano romano,,IT
+522,Chur,,CH
+523,Braunfels,,DE
+524,Birr,,IE
+525,Yeovil,,GB
+526,Sudbury,78,GB
+527,Marseille,,FR
+528,Mondeville,,FR
+529,Maastricht,,NL
+530,Kempen,,DE
+531,Nürnberg,,DE
+532,Verdello,20,IT
+533,Queensbury,,GB
+534,San benedetto del tronto,,IT
+535,Poole,79,GB
+536,Dordrecht,,NL
+537,Vaison la romaine,,FR
+538,Bishopthorpe,,GB
+539,Strongoli,80,IT
+540,Montevarchi,81,IT
+541,Trezzo sull'adda,,IT
+542,Laarne,,BE
+543,Shrewsbury,,GB
+544,Inverness,,GB
+545,Irvine,26,GB
+546,Vikersund,,NO
+547,Ippécourt,,FR
+548,Eltom,,GB
+549,Schwaikheim,,DE
+550,Valence sur baise,,FR
+551,Calvisson,,FR
+552,Pont-y-pwl,,GB
+553,Werder (havel),,DE
+554,Vidauban,,FR
+555,Buchholz (westerwald),,DE
+556,Castellaneta,,IT
+557,Algés,,PT
+558,Wembley,,GB
+559,Zbýšov,,CZ
+560,Eybens,,FR
+561,Wolfsburg,,DE
+562,Irvine,,GB
+563,Manzanares,,ES
+564,Cassano magnago,11,IT
+565,Casarano,,IT
+566,Nierstein,,DE
+567,Kisperk nad ohri,,CZ
+568,Werben,,DE
+569,Newtown,82,GB
+570,Newtownards,83,GB
+571,Terni,,IT
+572,Anse,,FR
+573,Corbeil,,FR
+574,Saffron walden,27,GB
+575,Highworth,,GB
+576,Ercolano,55,IT
+577,Villegouge,,FR
+578,Limoges,,FR
+579,Derby,,GB
+580,Baudour,,BE
+581,Itegem,,BE
+582,Sacile,84,IT
+583,Havant,,GB
+584,Luton,,GB
+585,San clemente,85,IT
+586,Vangadizza,,IT
+587,Dortmund,,DE
+588,Uithoorn,,NL
+589,Coventry,,GB
+590,Penamaior,,PT
+591,Brønderslev,,DK
+592,Crediton,,GB
+593,Dumfries,,GB
+594,Niechorz gm śepólno kraj,,PL
+595,Grange-over-sands,86,GB
+596,Bicester,,GB
+597,Whitley bay,,GB
+598,Conches sur gondoire,,FR
+599,Rotherham,36,GB
+600,Sat valea ursilor,87,RO
+601,Füssen,,DE
+602,Varhaug,,NO
+603,Melksham,88,GB
+604,Borgata massimina,,IT
+605,Swadlincote,,GB
+606,Roma,,IT
+607,Oakham,,GB
+608,Kingswinford,,GB
+609,Obergerlafingen,,CH
+610,Solaro,23,IT
+611,Clacton-on-sea,27,GB
+612,Ås,,NO
+613,Frenes sur escot,,FR
+614,Thatcham,34,GB
+615,Chemnitz,,DE
+616,Vizze,,IT
+617,Ely,38,GB
+618,Isernhagen,,DE
+619,Aouste sur sye,,FR
+620,Olomouc,,CZ
+621,Crewe,,GB
+622,Blauwestad,,NL
+623,Rotterdam,,NL
+624,Newton abbot,76,GB
+625,Edenbridge,,GB
+626,Kolding,,DK
+627,Wädenswil,,CH
+628,Lontzen,,BE
+629,Alton,,GB
+630,Laigueglia,89,IT
+631,Bury,67,GB
+632,Tuitjenhorn,,NL
+633,King's lynn,44,GB
+634,Vigonza,,IT
+635,Essen,,BE
+636,Brno,,CZ
+637,Southampton,,GB
+638,Luz meu,,PT
+639,Perugia,90,IT
+640,Wrocław,,PL
+641,South ockendon,,GB
+642,Moncalieri,58,IT
+643,Radstock,,GB
+644,Weston-super-mare,91,GB
+645,Liedekerke,,BE
+646,Quinta do anjo / quinta das flores,,PT
+647,South queensferry,,GB
+648,Sunderland,,GB
+649,Prato,,IT
+650,Withernsea,,GB
+651,Winsford,72,GB
+652,Durham,,GB
+653,Cramlington,,GB
+654,Avoch,,GB
+655,Llanfairpwllgwyngyll,,GB
+656,Southall,,GB
+657,Bonnybridge,,GB
+658,Nave,,IT
+659,Halifax,,GB
+660,Swansea,,GB
+661,Radziemice,,PL
+662,Watermael-boitsfort,,BE
+663,Tolvsrød,,NO
+664,Palosco,,IT
+665,Samora correia,,PT
+666,Soignies,,BE
+667,Cesena,,IT
+668,Coniston,,GB
+669,Bishop's stortford,25,GB
+670,Guildford,4,GB
+671,Trelaze,,FR
+672,Greenford,,GB
+673,Bauerbach,,DE
+674,Le girouard,,FR
+675,Raufoss,,NO
+676,Amstelveen,,NL
+677,Battle,1,GB
+678,Piekary śląskie,,PL
+679,Northwich,,GB
+680,Litobratřice,,CZ
+681,Haslemere,4,GB
+682,Echirolles,,FR
+683,Macerata,,IT
+684,Travedona-monate,,IT
+685,Belotin,,CZ
+686,Mering,,DE
+687,Kraków,,PL
+688,Vlaardingen,,NL
+689,Wuppertal,,DE
+690,Cosne cours sur loire,,FR
+691,Oldbury,8,GB
+692,Saltburn-by-the-sea,69,GB
+693,Evaux les bains,,FR
+694,West bromwich,8,GB
+695,Stare kurowo,,PL
+696,Nijmegen,,NL
+697,Öhringen,,DE
+698,Ellesmere port,,GB
+699,Bangor,35,GB
+700,Rennes,,FR
+701,Abzac,,FR
+702,Pellezzano,92,IT
+703,Longford,93,IE
+704,Tredegar,,GB
+705,Vagney,,FR
+706,Saulx les chartreux,,FR
+707,Corbeil essonnes,,FR
+708,Auzebosc,,FR
+709,Choppington,,GB
+710,Bad kreuznach,,DE
+711,Ilkley,70,GB
+712,Sestri ponente,,IT
+713,Lablachere,,FR
+714,Estacion ferrea san roque,,ES
+715,Newcastle,94,IE
+716,Riedering,,DE
+717,Eskilstuna,,SE
+718,Heckmondwike,70,GB
+719,Saint sebastien sur loire,,FR
+720,Berwick-upon-tweed,,GB
+721,Pößneck,,DE
+722,St philbert de grand lieu,,FR
+723,Wareham,79,GB
+724,Bootle,62,GB
+725,Reading,,GB
+726,Kempten (allgäu),,DE
+727,Schillingen,,DE
+728,Trevi,90,IT
+729,Alonte,,IT
+730,Grenoble,,FR
+731,Vence,,FR
+732,Kovarce,,SK
+733,Białystok,,PL
+734,Wellingborough,,GB
+735,Bergkamen,,DE
+736,Nové mesto nad váhom,,SK
+737,Valverde,95,IT
+738,Potters bar,,GB
+739,Waterford city,96,IE
+740,Marcon,,IT
+741,Gordola,,CH
+742,Matelica,97,IT
+743,Selkirk,,GB
+744,Bridgwater,98,GB
+745,Treorchy,99,GB
+746,Massanzago,100,IT
+747,Bekkjarvik,,NO
+748,Hoddesdon,,GB
+749,Kilmaallock co limerick,,IE
+750,Naas,101,IE
+751,Arbroath,,GB
+752,Hassendorf,,DE
+753,Merthyr tydfil,,GB
+754,Eaton socon,,GB
+755,Saint-denis-bovesse,,BE
+756,Surbiton,4,GB
+757,Egham,4,GB
+758,København nv,,DK
+759,Northwich,72,GB
+760,Godalming,4,GB
+761,Žilina,,SK
+762,Sint truiden,,BE
+763,Ripon,32,GB
+764,Santo stefano di magra,,IT
+765,Radzymin,,PL
+766,Cleethorpes,,GB
+767,Baneins,,FR
+768,Moena,102,IT
+769,Wakefield,,GB
+770,Radawiec duży,,PL
+771,Neufeld an der leitha,,AT
+772,Chesterfield,61,GB
+773,Chiampo,42,IT
+774,Gateshead,,GB
+775,Somerset,,GB
+776,East sussex,,GB
+777,Darlington,,GB
+778,Namur,,BE
+779,Oulu,,FI
+780,Mötzingen,,DE
+781,Sant pere de vilamajor,,ES
+782,Schwentinental,,DE
+783,San pietro in casale,,IT
+784,Almere,,NL
+785,Leighton buzzard,,GB
+786,Marseille 15,,FR
+787,Putte,,BE
+788,Henley-on-thames,,GB
+789,Gondomar,,ES
+790,Gillingham,,GB
+791,Itzehoe,,DE
+792,Bonn,,DE
+793,Bunkeflostrand,,SE
+794,Grantham,29,GB
+795,Vollrathsruhe,,DE
+796,Altenburg,,DE
+797,Hinckley,103,GB
+798,Aachen,,DE
+799,Osimo,,IT
+800,Pozzuoli,,IT
+801,Havant,10,GB
+802,Doncaster,,GB
+803,Bakewell,,GB
+804,Langenhagen,,DE
+805,Camberley,4,GB
+806,Echt,,NL
+807,Paris 8,,FR
+808,Jasionka,,PL
+809,Barnet,25,GB
+810,Newton abbot,,GB
+811,Draveil,,FR
+812,Meiningen,,DE
+813,Bodmin,,GB
+814,Sládkovičovo,,SK
+815,Caserta,104,IT
+816,Grimisuat,,CH
+817,Dartford,,GB
+818,North shields,,GB
+819,Dudley,,GB
+820,Padova,,IT
+821,Cesano maderno,43,IT
+822,Héron,,BE
+823,Rutka-tartak,,PL
+824,Praha 6,,CZ
+825,Gellainville,,FR
+826,Seillons source d argens,,FR
+827,Drøbak,,NO
+828,Ashington,105,GB
+829,Illertissen,,DE
+830,Ostfildern,,DE
+831,Solihull,,GB
+832,Saint cyprien plage,,FR
+833,North walsham/norfolk,,GB
+834,Holyhead,,GB
+835,Broadstairs,18,GB
+836,Edegem,,BE
+837,Baug,,FR
+838,Brough,,GB
+839,Eastleigh,10,GB
+840,Leutkirch im allgäu,,DE
+841,Consandolo,,IT
+842,Sestri levante,68,IT
+843,Mont st aignan,,FR
+844,Immingham,,GB
+845,Darlington,106,GB
+846,San severo,,IT
+847,Rosbach vor der höhe,,DE
+848,St martin d'ablois,,FR
+849,Aschersleben,,DE
+850,Volx,,FR
+851,Arganil,,PT
+852,Koźmin wielkopolski,,PL
+853,Bonnyrigg,107,GB
+854,Harrow,108,GB
+855,Fjelldal,,NO
+856,Backnang,,DE
+857,Offenbach am main,,DE
+858,Sannois,,FR
+859,Mönchberg,,DE
+860,Gravesend,18,GB
+861,Zwijndrecht,,NL
+862,Alcester,,GB
+863,Cremosano,109,IT
+864,Oldervik,,NO
+865,Eggersdorf,,DE
+866,Barge,110,IT
+867,Napoli,55,IT
+868,Chelles,,FR
+869,Louth,111,IE
+870,Haddington,,GB
+871,Skogn,,NO
+872,Zetel,,DE
+873,Bischofsheim,,DE
+874,Deggendorf,,DE
+875,Sheringham,44,GB
+876,Largs,26,GB
+877,Tremeloir,,FR
+878,Rapallo,,IT
+879,Newtownabbey,112,GB
+880,Sannes,,FR
+881,Duisburg,,DE
+882,Sonico,,IT
+883,Hinckley,,GB
+884,Exeter,,GB
+885,Church road,,GB
+886,Kilcreggan,,GB
+887,Sesto fiorentino,,IT
